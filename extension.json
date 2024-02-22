@@ -2,6 +2,6 @@
   "name": "SQL",
   "version": "0.0.2",
   "authors": ["evrsen"],
-  "description": "SQL support in Zed.",
+  "description": "Syntax highlighting for SQL.",
   "repository": "https://github.com/evrsen/zed-sql"
 }
