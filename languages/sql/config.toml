@@ -1,0 +1,4 @@
+name = "SQL"
+grammar = "sql"
+path_suffixes = ["sql"]
+brackets = [{ start = "\"", end = "\"", close = false, newline = false }]

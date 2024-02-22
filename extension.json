@@ -1,0 +1,7 @@
+{
+  "name": "SQL",
+  "version": "0.0.1",
+  "authors": ["evrsen"],
+  "description": "SQL support in Zed.",
+  "repository": "https://github.com/evrsen/zed-sql"
+}
