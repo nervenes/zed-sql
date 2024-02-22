@@ -1,4 +1,8 @@
 name = "SQL"
 grammar = "sql"
 path_suffixes = ["sql"]
-brackets = [{ start = "\"", end = "\"", close = false, newline = false }]
+line_comments = ["-- "]
+brackets = [
+    { start = "(", end = ")", close = true, newline = false },
+    { start = "BEGIN", end = "END", close = true, newline = true },
+]
