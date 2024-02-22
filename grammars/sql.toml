@@ -1,2 +1,2 @@
-repository = "https://github.com/m-novikov/tree-sitter-sql"
-commit = "63cd04238b18c7f55987465b3252597da47b6924"
+repository = "https://github.com/evrsen/tree-sitter-sql"
+commit = "5abc3253b56d979b41c34afb3a8787b3a7dc1009"
