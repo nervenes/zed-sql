@@ -1,6 +1,6 @@
 {
   "name": "SQL",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "authors": ["evrsen"],
   "description": "Syntax highlighting for SQL.",
   "repository": "https://github.com/evrsen/zed-sql"
