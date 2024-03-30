@@ -6,3 +6,5 @@ brackets = [
     { start = "(", end = ")", close = true, newline = false },
     { start = "BEGIN", end = "END", close = true, newline = true },
 ]
+prettier_parser_name = "sql"
+prettier_plugins = ["prettier-plugin-sql"]
