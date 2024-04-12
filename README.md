@@ -1,6 +1,6 @@
 # zed-sql
 
-Syntax highlighting for SQL in [Zed](https://github.com/zed-industries/zed).
+SQL language support for [Zed](https://github.com/zed-industries/zed).
 
 ### Test locally
 

@@ -1,7 +1,7 @@
 {
   "name": "SQL",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "authors": ["evrsen"],
-  "description": "Syntax highlighting for SQL.",
+  "description": "SQL language support for Zed",
   "repository": "https://github.com/evrsen/zed-sql"
 }
