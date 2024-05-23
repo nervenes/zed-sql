@@ -1,0 +1,13 @@
+[package]
+name = "zed-sql"
+version = "1.1.0"
+edition = "2021"
+publish = false
+license = "MIT"
+
+[lib]
+path = "src/sql.rs"
+crate-type = ["cdylib"]
+
+[dependencies]
+zed_extension_api = "0.0.6"

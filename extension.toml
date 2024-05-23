@@ -8,3 +8,7 @@ repository = "https://github.com/evrsen/zed-sql"
 [grammars.sql]
 repository = "https://github.com/evrsen/tree-sitter-sql"
 commit = "6dfca8b6dcb196d943c10e9cabab25e60232d332"
+
+[language_servers.sql]
+name = "SQL LSP"
+language = "SQL"
