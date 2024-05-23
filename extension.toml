@@ -4,6 +4,7 @@ version = "1.2.0"
 authors = ["evrsen"]
 description = "SQL language support for Zed"
 repository = "https://github.com/evrsen/zed-sql"
+schema_version = 1
 
 [grammars.sql]
 repository = "https://github.com/evrsen/tree-sitter-sql"
