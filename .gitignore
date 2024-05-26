@@ -1,3 +1,7 @@
+grammars
+extension.wasm
+test.sql
+
 # General
 .DS_Store
 .AppleDouble
