@@ -1,6 +1,6 @@
 id = "sql"
 name = "SQL"
-version = "1.1.0"
+version = "1.2.0"
 authors = ["evrsen"]
 description = "SQL language support for Zed"
 repository = "https://github.com/evrsen/zed-sql"
@@ -9,3 +9,7 @@ schema_version = 1
 [grammars.sql]
 repository = "https://github.com/evrsen/tree-sitter-sql"
 commit = "6dfca8b6dcb196d943c10e9cabab25e60232d332"
+
+[language_servers.sqls]
+name = "sqls"
+language = "SQL"

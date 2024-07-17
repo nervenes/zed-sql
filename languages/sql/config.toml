@@ -3,8 +3,6 @@ grammar = "sql"
 path_suffixes = ["sql"]
 line_comments = ["-- "]
 brackets = [
-    { start = "(", end = ")", close = true, newline = false },
+    { start = "(", end = ")", close = true, newline = true },
     { start = "BEGIN", end = "END", close = true, newline = true },
 ]
-prettier_parser_name = "sql"
-prettier_plugins = ["prettier-plugin-sql"]
