@@ -1,6 +1,6 @@
 id = "sql"
 name = "SQL"
-version = "1.1.0"
+version = "1.1.1"
 authors = ["evrsen"]
 description = "SQL language support for Zed"
 repository = "https://github.com/evrensen467/zed-sql"
